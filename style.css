@@ -8,6 +8,9 @@
     display: flex;
     justify-content: space-between;
     margin: 1% 12%;
+
+
+
 }
 .logo-docplanner{
     height: 32px;
@@ -181,6 +184,10 @@ opacity: 0;
     align-items: flex-end;
     margin-left: 25%;
 
+}
+
+.card-header{
+    margin-bottom: 15%;
 }
 .card{
     width: 229px;
