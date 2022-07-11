@@ -12,8 +12,7 @@
 
 }
 #img{
-    margin-top: 30%;
-    margin:100px 100px 0 0px ;
+    margin-left: -130px;
 }
 .navbar{
     font-weight: bold;
@@ -185,7 +184,9 @@ cursor: pointer;
     justify-content: center;
     display: flex;
     flex-wrap: nowrap;
+    height: 650px;
     background-color:  rgb(217, 246, 246); 
+
 }
 
 .tables{
@@ -217,7 +218,7 @@ h1,h2,h3,h4{
 }
 .card{
     width: 228.75px;
-    height: 250px;
+    height: 209px;
     margin: 10px;
     border-radius: 5px;
     max-width: 228.75px;
@@ -233,21 +234,23 @@ h1,h2,h3,h4{
 .tables-container-2{
     display: flex;
     flex-direction: column;
-
     align-items: flex-start;
     margin-bottom: 10%;
 padding-top: 10px;
+
 }
 .tables-container-1{
     margin-bottom: 13%;
     min-height: 80%;
-    padding-top:20px ;
+    margin-bottom: 10%;
 }
 
 #card-3{
     margin-bottom: 10px;
+    
 }
 #card-1{
+    margin-top: 30px;
     margin-bottom: 20px;
 
 
